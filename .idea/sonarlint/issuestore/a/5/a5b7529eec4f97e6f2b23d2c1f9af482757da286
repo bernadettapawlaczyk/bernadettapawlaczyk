@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þÉ’»þÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "poniedzialek".(»ÜŒæúÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "dayOfMonth".(çª¥‹øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ž¿Ðáøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…Œûê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õõ§Åøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äâ…Ðûÿÿÿÿ
+J
+java:S1481"/Remove this unused "dayOfMonth" local variable.(çª¥‹øÿÿÿÿ
+L
+java:S1481"1Remove this unused "poniedzialek" local variable.(»ÜŒæúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ïÿ§ˆÿÿÿÿÿ

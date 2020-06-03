@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„û“á8›ñ§¹¦.
+K
+java:S1481")Remove this unused "suma" local variable.(é«Ğüşÿÿÿÿ8Î½ ¹¦.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã­Ÿ¢
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8¤…¹¦.
