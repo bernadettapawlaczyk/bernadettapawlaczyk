@@ -1,16 +1,0 @@
-
-Z	java:S106,"9Replace this use of System.out or System.err by a logger.(İêÛ©ùÿÿÿÿ8í°˜†§.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸úP
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¡î¼¨8Û±ô…§.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÖÛ³ûÿÿÿÿ8Û±ô…§.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(€„èâûÿÿÿÿ8ïÈò…§.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(¸˜ø8¤„Œ†§.
-U	java:S1064"9Replace this use of System.out or System.err by a logger.(³í¿Ô8Ö—Ÿ†§.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ù½œ¢ıÿÿÿÿ8¤„Œ†§.
-Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ş›øÿÿÿÿ8‡†§.
-Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¨¢„¯ÿÿÿÿÿ8Ÿ†§.
-Z	java:S1060"9Replace this use of System.out or System.err by a logger.(¸¼±áûÿÿÿÿ8±¶š†§.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(§µ‹ï8·íå…§.
-e
-java:S3518+"CMake sure this expression can't be zero before doing this division.(·šÌíıÿÿÿÿ8Í¬¤†§.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(±œ¦úÿÿÿÿ8Û±ô…§.

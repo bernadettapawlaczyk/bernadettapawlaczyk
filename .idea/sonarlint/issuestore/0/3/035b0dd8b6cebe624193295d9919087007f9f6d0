@@ -1,7 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã­Ÿ¢
->
-java:S1643"Use a StringBuilder instead.(ÔÈÜ®şÿÿÿÿ8ÿÈÚ¸¦.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‰ã¼8´ş«¸¦.
-y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ã•ö¢ÿÿÿÿÿ8ÆİÑ¸¦.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Àå˜¬8êÇÛ¸¦.
